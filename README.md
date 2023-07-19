@@ -1,7 +1,7 @@
 # Compiler basic commands
 
-Compile code
+### Compile code
 g++ helloWorld.cpp
 
-Run executable file
+### Run executable file
 ./a.out
